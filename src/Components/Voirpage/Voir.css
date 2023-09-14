@@ -1,0 +1,99 @@
+.voir .m11 {
+    padding-top: 70px;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    padding-bottom: 30px;
+  }
+  .voir .a {
+    font-size: 16px;
+    color: #93c01f;
+  }
+  .voir .categ {
+    font-weight: 700;
+    font-size: 56px;
+  }
+  .voir .btnout {
+    text-align: center;
+    margin-left: auto;
+    padding: 1em;
+    justify-content: center;
+    display: inherit;
+  }
+  .voir .overback {
+    margin-top: 50px;
+  }
+  .voir .overcard {
+    /* height: 490px; */
+    background-color: #1c2126;
+  }
+  .voir .slick-slide img {
+    display: inline;
+}
+  .voir .card {
+    width: 90% !important;
+    border-radius: 17px;
+    border: #ffffff;
+    display: block !important;
+    word-wrap: none;
+  }
+  .voir .card-img2 {
+    width: 100%;
+    border-radius: 16px;
+    opacity: 0.5;
+  }
+  .voir .card-title2 {
+    color: #1c2126;
+    padding: 8px 12px;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 8px;
+  }
+  .voir .card-text2 {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .voir .ven{
+    position: absolute;
+    bottom: 0;
+  }
+  .voir .dblock{
+    position: relative;
+  }
+  .voir .card-text3 {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .voir .une {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 32px;
+  }
+  .voir .avatar {
+    box-shadow: 10px;
+    margin-right: 5px;
+  }
+  @media (max-width:600px) {
+    .voir .thug{
+      display: block !important;
+    }
+  
+    .voir .ories{
+    display: flex;
+    justify-content: center;
+    }
+    .voir .m11{
+      margin-left: 3%;
+    }
+    .voir .m100{
+      margin: 0% 10%;
+      align-items: center;
+      justify-content: center;
+    }
+    .voir .card{
+      width: 100% !important;
+    }
+  }

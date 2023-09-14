@@ -1,0 +1,92 @@
+
+.about .carousel-cap {
+    position: absolute;
+    right: 15%;
+    bottom: 4rem;
+    left: 5%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    width: 600px;
+  }
+  .about .icosf {
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+  .about .inp{
+     width: 100% !important;
+     margin-left: 20px;
+  }
+  .about .logo2 {
+    margin-left: 40px;
+    justify-content: center;
+    display: flex;
+}
+.about .suivez {
+  margin-right: 1em;
+}
+.inp .ant-input-search-button {
+  border-radius: 12px !important;
+  margin-left: -105px !important;
+  height: 38
+}
+.inp .ant-input-clear-icon {
+  margin-left: -50vh !important;
+  display: none;
+}
+.icosf .face {
+  margin-right: 1em;
+}
+.inp .ant-input-affix-wrapper-lg {
+  border-radius: 12px !important;
+  height: 50px;
+}
+.inp .suivez {
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.about .abonnez {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 48px;
+  }
+@media (max-width: 1275px) {
+    .about .logo2 {
+      margin-left: 0px;
+      justify-content: center;
+      display: flex;
+  }
+    .about .abonnez {
+      display: flex !important;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 32px;
+    }
+    .about .cup2{
+      justify-content: center;
+    }
+    .about #carouselExampleDark{
+      display: none;
+    }
+  .about .inp{
+    justify-content: center;
+    display: flex;
+    margin-left: 0% !important;
+  }
+  .inp .ant-input-group-wrapper{
+    width: 80%;
+  }
+}
+@media (min-width: 1276px) {
+  .about .cup2{
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  
+  .about .abonnez{
+    margin: 0px !important;
+    padding: 5% 10%;
+  }
+}

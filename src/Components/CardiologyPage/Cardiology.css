@@ -1,0 +1,297 @@
+.cardiology .accp2{
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 14px;
+    align-items: center;
+}
+.cardiology .result55{
+    font-weight: 400;
+    font-size: 14px;
+ }
+ .cardiology .card-body1 .icon7{
+    padding: 0.6em;
+    height: 56px;
+    width: 56px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+ }
+ .cardiology .ant-pagination-options{
+    display: none !important;
+ }
+ .cardiology .img-mx-2{
+    margin-right: 10px;
+ }
+ .cardiology .rpmn{
+    justify-content: space-between;
+ }
+ /* .cardiology .ant-pagination-item{
+    margin-inline-end: 0px;
+ } */
+ .cardiology .rpmn .ant-pagination-prev {
+    margin-left: -100px;
+    margin-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+}
+.cardiology .rpmn .ant-pagination {
+display: flex;
+align-items: center;
+}
+.cardiology .rpmn .anticon-left{
+    display: none;
+}
+.cardiology .rpmn .prev{
+    border: #C0C5CE;
+    background: #C0C5CE;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    border-radius: 12px;
+    margin-right: -15px;
+}
+.cardiology .rpmn  .ant-pagination-next .ant-pagination-item-link{
+    display: none;
+}
+.cardiology .rpmn  .ant-pagination-prev .ant-pagination-item-link{
+    display: none;
+}
+.cardiology .rpmn .ant-pagination-next{
+    padding: 20px 0px 20px 110px;
+    margin-right: -110px;
+}
+.cardiology .rpmn .nex{
+    padding: 12px 24px;
+    border-radius: 12px;
+    color: #FFFFFF;
+    background-color: #0094DA;
+    border: 0px;
+}
+.cardiology .rpmn .anticon-right{
+    display: none;
+}
+.cardiology .rpmn .ant-pagination-disabled{
+cursor: pointer !important;
+}
+ .cardiology .d-cardieo{
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+ }
+.cardiology .bgLight{
+    background-color: #C0C5CE;
+    padding: 10px;
+    border-radius: 10px
+}
+.cardiology .bor .card-body1{
+    padding: 1rem 0rem;
+}
+.cardiology .mx2{
+    margin-right: 15px;
+}
+.cardiology .bor .m55{
+    font-weight: 400;
+    font-size: 12px;
+    padding: 0% 5%;
+}
+.cardiology .bor .loco-marg{
+    margin: 0% 5%;
+    align-items: first baseline;
+}
+.cardiology .bor .logements{
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 10px;
+}
+.cardiology .img-group{
+    margin: 2% 5%;
+    justify-content: space-between;
+    display: flex;
+}
+.cardiology .optha{
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 15px;
+}
+.cardiology .p10 .col-md-5{
+    width: 47%;
+}
+.cardiology .mechri{
+    font-weight: 700;
+    font-size: 16px;
+    display: initial;
+    padding-top: 1rem;
+}
+.cardiology .card-image2{
+    width: 18%;
+    border-radius: 8px;
+}
+.cardiology .bor{
+    justify-content: center;
+    border: 2px solid #C0C5CE;
+    border-radius: 24px;
+    background: #FFFFFF;
+}
+.cardiology .card-image{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+ .cardiology  .list{
+     margin: 0px 5px;
+     padding: 10px;
+     border-radius: 10px;
+   }
+.cardiology .chage{
+    padding: 5px;
+    font-weight: 500;
+    font-size: 12px;
+}
+.cardiology .alleug{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.cardiology .space-betw{
+   justify-content: space-between;
+}
+.cardiology .p10{
+    padding-left: 100px;
+    padding-right: 15px;
+}
+.cardiology .rechared{
+font-weight: 700;
+font-size: 32px;
+}
+.legen .inp label{
+    font-weight: 500;
+    font-size: 12px;
+}
+.cardiology .legen{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cardiology .accp2 svg{
+    vertical-align: initial !important;
+}
+.cardiology .inp{
+    margin-top: 35px;
+}
+.cardiology .m10{
+    margin: 0px 100px 0px 100px;
+}
+.cardiology  .ant-select-single{
+        width: 200px;
+        max-width: 264px;
+        margin-right: 20px;
+}
+.cardiology .voir-btn{
+    background: #0094DA;
+    border-radius: 12px;
+    border: 1px solid #0094DA;
+    color: #FFFFFF;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    width: 97%;
+    margin-bottom: 50px;
+}
+.cardiology .search{
+    margin-left: -30px;
+}
+.cardiology .voir-btn2{
+    background: #0094DA;
+    border-radius: 12px;
+    border: 1px solid #0094DA;
+    color: #FFFFFF;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    width: 100%;
+}
+.cardiology .ant-select-selection-item{
+align-items: center;
+display: flex;
+}
+.cardiology .ant-select-selector{
+    border-radius: 12px;
+    height: 40px !important;
+}
+.cardiology .map2{
+    padding: 0px 20px;
+}
+@media (min-width:1076px) {
+    .cardiology .voir-btn{
+        display: none;
+    }
+}
+@media (max-width:1075px) {
+    .cardiology .m10{
+        margin: 0px 20px;
+    }
+    .cardiology .p10{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .cardiology .rpmn{
+        display: none !important;
+    }
+}
+@media (min-width:601px) {
+    .cardiology .cardio-search2{
+        display: none !important;
+    }
+    .cardiology .voir-btn2{
+        display: none;
+    }
+}
+@media (max-width:765px) {
+    .cardiology .map{
+        display: none;
+    }
+   .cardiology .p10 .row{
+    padding: 0px 20px;
+   }
+   .cardiology .rechared{
+    padding: 0px 20px;
+   }
+   .cardiology .d-cardieo{
+    padding: 0px 20px;
+   }
+   .cardiology .alleug{
+    margin-bottom: 20px !important;
+   }
+}
+@media (min-width:765px) {
+    .cardiology .map2{
+        display: none;
+    }
+}
+
+@media (max-width:600px) {
+    .cardiology .legen{
+        display: block !important;
+    }
+    
+    .cardiology .aff{
+        display: none;
+    }
+    .cardiology .cardio-search{
+        width: 100%;
+        height: 50px;
+        border-radius: 12px;
+        border: 1px solid #C0C5CE;
+    }
+    .cardiology .inpsearch{
+        display: none;
+    }
+    .cardiology .ant-select-selector {
+        height: 50px !important;
+    }
+   .cardiology .inp{
+    margin-top: 10px !important;
+   }
+    .cardiology .ant-select-single{
+        width: 100% !important;
+        max-width: 100%;
+    }
+}

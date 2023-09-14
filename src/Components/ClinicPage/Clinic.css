@@ -1,0 +1,116 @@
+.clinic .m100 {
+  margin: 0px 100px;
+}
+.clinic .card {
+  border-radius: 17px;
+  border: #ffffff;
+  display: inherit !important;
+}
+.clinic .slick-arrow {
+  display: none !important;
+}
+
+.clinic .slick-slide img {
+  display: inline;
+}
+.clinic .checkm {
+  position: relative;
+}
+.clinic .card {
+  width: 90% !important;
+}
+.clinic .eyeico {
+  max-width: 100px;
+  max-height: 100px;
+  margin-left: -10px;
+  margin-top: -55px;
+}
+.clinic .card1 {
+  margin-right: 2rem;
+}
+.clinic .location{
+  margin-top: -10px;
+}
+.clinic .card-text {
+  margin-left: 20px;
+  margin-right: 0px;
+  margin-top: -15px !important;
+  font-weight: 400;
+  font-size: 12px;
+}
+.clinic .spvoir {
+  margin-right: 15px;
+}
+.clinic .bdpri {
+  border: 1px solid #0094da;
+  padding: 0.5em 2.8em;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 16px;
+  width: 95%;
+  display: flex;
+  justify-content: center;
+}
+.clinic .lessthen{
+  
+  padding-right: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-left: 2px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+.clinic .locate{
+  margin-top: 35px;
+  align-items: first baseline;
+}
+.clinic .oph {
+  font-weight: 400;
+  margin-bottom: 20px;
+  font-size: 12px;
+  color: #65737e;
+}
+.clinic .categ {
+  font-weight: 700;
+  font-size: 56px;
+  color: black;
+}
+@media (max-width: 1000px) {
+  .clinic .slick-track {
+    width: 400px;
+  } 
+  .clinic .categ {
+    font-weight: 700;
+    font-size: 48px;
+    align-items: center;
+    justify-content: center !important;
+  
+  }
+}
+@media (max-width:600px) {
+  .clinic .thug{
+    display: block !important;
+  }
+
+  .clinic .ories{
+  display: flex;
+  justify-content: center;
+  }
+  .clinic .m11{
+    margin-left: 3%;
+  }
+  .clinic .m100{
+    margin: 0% 10%;
+    align-items: center;
+    justify-content: center;
+  }
+  .clinic .card{
+    width: 100% !important;
+  }
+}
+@media (max-width:740px) {
+  .clinic .m11{
+   margin-left: 10px;
+   margin-right: 10px;
+  }
+ }
